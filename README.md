@@ -1,5 +1,10 @@
 # Satwik Kumar (SatAi999) 👋
-### AI Enthusiast & Machine Learning Practitioner
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Agentic+AI+Developer;RAG+%26+LLM+Architect" alt="Typing SVG" />
+</div>
+
+<br />
 
 <div align="center">
   <img src="banner.png" alt="Satwik's Profile Banner" width="100%" />
@@ -92,7 +97,7 @@ I am a passionate **Machine Learning Engineer & AI Practitioner** dedicated to b
 
 ---
 
-## 📊 Live GitHub Stats
+## 📊 Live GitHub Stats & Activity
 
 <div align="center">
   <table>
@@ -107,6 +112,11 @@ I am a passionate **Machine Learning Engineer & AI Practitioner** dedicated to b
     <tr>
       <td colspan="2" align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatAi999&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=SatAi999&theme=radical&hide_border=true" alt="SatAi999's Github Activity Graph" width="100%" />
       </td>
     </tr>
   </table>
