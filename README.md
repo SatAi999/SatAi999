@@ -108,28 +108,8 @@ I am a passionate **Machine Learning Engineer & AI Practitioner** dedicated to b
 ---
 
 ## 📊 Live GitHub Stats & Activity
-
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=SatAi999&show_icons=true&title_color=A970FF&icon_color=00F2FE&text_color=E2E8F0&bg_color=0D1117&border_color=A970FF&hide_border=true" alt="SatAi999 Stats" width="100%" />
-      </td>
-      <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatAi999&layout=compact&title_color=A970FF&icon_color=00F2FE&text_color=E2E8F0&bg_color=0D1117&border_color=A970FF&hide_border=true" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center" style="border: none;">
-        <img src="https://streak-stats.demolab.com/?user=SatAi999&background=0D1117&border=A970FF&stroke=A970FF&ring=00F2FE&fire=A970FF&currStreakNum=FFFFFF&sideNums=E2E8F0&hide_border=true" alt="GitHub Streak" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center" style="border: none;">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=SatAi999&bg_color=0D1117&color=E2E8F0&line=A970FF&point=FFFFFF&area=true&area_color=A970FF&hide_border=true&custom_title=Satwik%20Kumar's%20Contribution%20Graph" alt="SatAi999's Github Activity Graph" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SatAi999&bg_color=0D1117&color=E2E8F0&line=A970FF&point=FFFFFF&area=true&area_color=A970FF&hide_border=true&custom_title=Satwik%20Kumar's%20Contribution%20Graph" alt="SatAi999's Github Activity Graph" width="100%" />
 </div>
 
 ---
