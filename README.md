@@ -53,53 +53,219 @@ I am a passionate **Machine Learning Engineer & AI Practitioner** dedicated to b
 
 ---
 
-## 📁 Featured Project Showcases
+## 📁 Repository Directory
 
 ### 🤖 Agentic AI & Intelligent Orchestration
-- **[Resume-JD Analyzer Agent](https://github.com/SatAi999/Resume-JD-Analyzer-Agent-Using-LangGraph)**
-  > A multi-agent recruitment copilot that automatically parses resume files, extracts key competencies, and matches candidate profiles with detailed Job Descriptions using graph-based routing.
+*Multi-agent systems, graph-based workflow control, and Model Context Protocol (MCP) implementations.*
+
+- **[AI-Real-Estate-Advisor-MCP-Powered-Intelligent-Property-Recommendation-Engine](https://github.com/SatAi999/AI-Real-Estate-Advisor-MCP-Powered-Intelligent-Property-Recommendation-Engine)**
+  > No description provided.
   > 
-  > `Python` `LangGraph` `LLM Reasoning` `ATS Optimization`
-- **[AI Real Estate Advisor (MCP)](https://github.com/SatAi999/AI-Real-Estate-Advisor-MCP-Powered-Intelligent-Property-Recommendation-Engine)**
-  > An intelligent property advisor that queries, filters, and recommends local real estate opportunities by integrating external databases dynamically via custom MCP servers.
+  > `Language: Python` `⭐ 1`
+- **[n8n_pdf_generation_project](https://github.com/SatAi999/n8n_pdf_generation_project)**
+  > No description provided.
   > 
-  > `Python` `Model Context Protocol (MCP)` `LangChain` `Query Planning`
-- **[AI Decision Tree Agent](https://github.com/SatAi999/AI-Decision-Tree-Agent-Using-LangGraph)**
-  > An agentic pipeline designed to traverse complex logical paths and solve multi-step classification tasks using dynamic state updates.
+  > `Language: JavaScript`
+- **[SupportGPT-Customer-Support-Finetuned-Agent](https://github.com/SatAi999/SupportGPT-Customer-Support-Finetuned-Agent)**
+  > A multi-agent customer support engine combining QLoRA SFT model tuning (Qwen-2.5-1.5B), PyTorch vector search RAG, and safety guardrails.
   > 
-  > `Python` `LangGraph` `State Management` `Decision Trees`
+  > `Language: Python`
+- **[Resume-JD-Analyzer-Agent-Using-LangGraph](https://github.com/SatAi999/Resume-JD-Analyzer-Agent-Using-LangGraph)**
+  > No description provided.
+  > 
+  > `Language: Python`
+- **[QualityOS---Multi-Agent-Autonomous-Testing-And-Quality-Engineering-Platform](https://github.com/SatAi999/QualityOS---Multi-Agent-Autonomous-Testing-And-Quality-Engineering-Platform)**
+  > A multi-agent quality engineering orchestrator built with LangGraph and FastAPI. Implements static AST code parsing (Neo4j), automated test suite generation (Pytest & Playwright), containerized sandbox execution, trace-correlated root cause analysis (OpenTelemetry & Jaeger), and vector-based learning memory (Qdrant).
+  > 
+  > `Language: Python`
+- **[LangGraph_Medical_Copilot](https://github.com/SatAi999/LangGraph_Medical_Copilot)**
+  > No description provided.
+  > 
+  > `Language: Python`
+- **[DataEng-Smart-Data-Engineering-Platform](https://github.com/SatAi999/DataEng-Smart-Data-Engineering-Platform)**
+  > An autonomous data engineering ecosystem powered by a LangGraph multi-agent swarm. Orchestrates 14 specialized AI agents through a Supervisor-Critic loop to automate dataset discovery, schema DDL mapping, PII governance, column-level lineage, and optimized PySpark/SQL generation.
+  > 
+  > `Language: Python`
+- **[APIFormer-A-Cognitive-Transformer-Architecture-for-Intelligent-API-Observability](https://github.com/SatAi999/APIFormer-A-Cognitive-Transformer-Architecture-for-Intelligent-API-Observability)**
+  > Cognitive Transformer for API observability. Integrates GCN topology, Hawkes decay attention, and CPU session memories. Optimizes via joint pretraining (MAM, causal, contrastive InfoNCE) and downstream multi-task heads for real-time sequence anomalies, workflow intents, and malicious bot agent detection.
+  > 
+  > `Language: Python`
+- **[AI-SQL-Assistant-via-MCP](https://github.com/SatAi999/AI-SQL-Assistant-via-MCP)**
+  > No description provided.
+  > 
+  > `Language: Python`
+- **[AI-Repository-Analyzer-Powered-by-Model-Context-Protocol-MCP-](https://github.com/SatAi999/AI-Repository-Analyzer-Powered-by-Model-Context-Protocol-MCP-)**
+  > No description provided.
+  > 
+  > `Language: Python`
+- **[AI-Decision-Tree-Agent-Using-LangGraph](https://github.com/SatAi999/AI-Decision-Tree-Agent-Using-LangGraph)**
+  > No description provided.
+  > 
+  > `Language: Python`
 
 ---
 
-### 🔍 Retrieval-Augmented Generation (RAG)
-- **[RAG Document QA System](https://github.com/SatAi999/rag-document-qa-system)**
-  > A production-grade document Q&A engine supporting semantic document search, context caching, and factual correctness checks.
+### 🔍 RAG, Search & LLM Applications
+*Retrieval-Augmented Generation engines, semantic vector search, and custom QA models.*
+
+- **[rag-document-qa-system](https://github.com/SatAi999/rag-document-qa-system)**
+  > No description provided.
   > 
-  > `Python` `Vector Database` `Embeddings` `Context Optimization`
-- **[Investor Presentation RAG](https://github.com/SatAi999/Investor_Presentation_Rag)**
-  > A tailored conversational assistant that parses complex slide presentations and answers financial/strategy queries for VC analysts.
+  > `Language: Python`
+- **[Visual-Search-Engine](https://github.com/SatAi999/Visual-Search-Engine)**
+  > No description provided.
   > 
-  > `Python` `PyMuPDF` `Semantic Search` `Financial RAG`
+  > `Language: Python`
+- **[RAG-Powered-Customer-Support-FAQ-Bot](https://github.com/SatAi999/RAG-Powered-Customer-Support-FAQ-Bot)**
+  > No description provided.
+  > 
+  > `Language: Python`
+- **[Investor_Presentation_Rag](https://github.com/SatAi999/Investor_Presentation_Rag)**
+  > No description provided.
+  > 
+  > `Language: Python`
 
 ---
 
-### 👁️ Computer Vision & Image Processing
-- **[Low-Light Image Enhancement](https://github.com/SatAi999/Low_Light_Image_Enhancement)**
-  > A CNN/Transformer model aimed at restoring structural details and illumination properties in extremely low-light digital imagery.
+### 👁️ Computer Vision, Image Processing & Deep Learning
+*Image restoration, camera calibration, spatial geometry, and transformer architectures.*
+
+- **[Arrhythmia_Detection](https://github.com/SatAi999/Arrhythmia_Detection)**
+  > No description provided.
   > 
-  > `PyTorch` `OpenCV` `Deep Learning` `Image Restoration`
-- **[Camera Calibration & Real-World Distance System](https://github.com/SatAi999/Camera-Calibration-Real-World-Distance-Measurement-System)**
-  > Real-time distance measurement system utilizing chessboards for camera intrinsic calibration, correcting lens distortion to estimate depth from visual feeds.
+  > `Language: HTML` `⭐ 1`
+- **[cimageBackend](https://github.com/SatAi999/cimageBackend)**
+  > No description provided.
   > 
-  > `Python` `OpenCV` `Pinhole Camera Models` `Spatial Geometry`
+  > `Language: Python`
+- **[Network-Intrusion-Detection](https://github.com/SatAi999/Network-Intrusion-Detection)**
+  > No description provided.
+  > 
+  > `Language: Python`
+- **[Low_Light_Image_Enhancement](https://github.com/SatAi999/Low_Light_Image_Enhancement)**
+  > No description provided.
+  > 
+  > `Language: Python`
+- **[Low_Image_Enhancement](https://github.com/SatAi999/Low_Image_Enhancement)**
+  > No description provided.
+  > 
+  > `Language: Python`
+- **[LogMind-Foundation-Transformer](https://github.com/SatAi999/LogMind-Foundation-Transformer)**
+  > Self-Supervised Transformer Encoder for Multi-Task Log Anomaly Detection, Root Cause Classification, and Contrastive Vector Search
+  > 
+  > `Language: Python`
+- **[Invoice-Expense-Classification](https://github.com/SatAi999/Invoice-Expense-Classification)**
+  > No description provided.
+  > 
+  > `Language: Python`
+- **[DevDisplay](https://github.com/SatAi999/DevDisplay)**
+  > DevDisplay is an Open Source Community where you can discover and Connect with Skilled Developers, share your ideas, and build projects with collaborative support also you can promote your project through this community.
+  > 
+  > `Language: JavaScript`
+- **[Computer_Vision_Projects](https://github.com/SatAi999/Computer_Vision_Projects)**
+  > No description provided.
+  > 
+  > `Language: Python`
+- **[Camera-Calibration-Real-World-Distance-Measurement-System](https://github.com/SatAi999/Camera-Calibration-Real-World-Distance-Measurement-System)**
+  > No description provided.
+  > 
+  > `Language: Python`
 
 ---
 
-### ⚙️ MLOps & Production Pipelines
-- **[AutoForge ML](https://github.com/SatAi999/AutoForge_ML-Production-Grade-AutoML-Pipeline-with-Dataset-Model-Versioning)**
-  > End-to-end ML pipeline automating feature engineering, parameter sweeps, model evaluation, and dataset versioning.
+### ⚙️ Machine Learning, MLOps & Data Engineering
+*Production AutoML pipelines, experiment tracking, feature engineering, and analytics engines.*
+
+- **[AutoForge_ML-Production-Grade-AutoML-Pipeline-with-Dataset-Model-Versioning](https://github.com/SatAi999/AutoForge_ML-Production-Grade-AutoML-Pipeline-with-Dataset-Model-Versioning)**
+  > No description provided.
   > 
-  > `Python` `Scikit-Learn` `MLflow` `DVC` `AutoML`
+  > `Language: Python` `⭐ 1`
+- **[Market_Trend_Analysis](https://github.com/SatAi999/Market_Trend_Analysis)**
+  > No description provided.
+  > 
+  > `Language: Python`
+- **[Hackathon_Civilytix](https://github.com/SatAi999/Hackathon_Civilytix)**
+  > No description provided.
+  > 
+  > `Language: Jupyter Notebook`
+- **[Energy_Demand_Forecasting](https://github.com/SatAi999/Energy_Demand_Forecasting)**
+  > No description provided.
+  > 
+  > `Language: Python`
+- **[Data_Analysis](https://github.com/SatAi999/Data_Analysis)**
+  > No description provided.
+  > 
+  > `Language: Python`
+- **[DS-Intern-Assignment-Satwik](https://github.com/SatAi999/DS-Intern-Assignment-Satwik)**
+  > This repo contains a Data Science intern assignment by Mechademy to assess end-to-end ML skills. Candidates will perform EDA, feature engineering, regression modeling, and evaluation. Emphasis is on Python, Git usage, and reproducible workflows. Follow the README for guidelines.
+  > 
+  > `Language: Jupyter Notebook`
+
+---
+
+### 🌐 Software Engineering & Utilities
+*Full-stack development, backends, automation scripts, and collaborative community forks.*
+
+- **[user_activity_tracking](https://github.com/SatAi999/user_activity_tracking)**
+  > No description provided.
+  > 
+  > `Language: JavaScript`
+- **[intelligent_sql_query_system](https://github.com/SatAi999/intelligent_sql_query_system)**
+  > No description provided.
+  > 
+  > `Language: Python`
+- **[card-activity](https://github.com/SatAi999/card-activity)**
+  > No description provided.
+  > 
+  > `Language: TypeScript`
+- **[automated_pdf_generation](https://github.com/SatAi999/automated_pdf_generation)**
+  > No description provided.
+  > 
+  > `Language: JavaScript`
+- **[ai-tender-marketplace](https://github.com/SatAi999/ai-tender-marketplace)**
+  > No description provided.
+  > 
+  > `Language: TypeScript`
+- **[Team-Task-Manager](https://github.com/SatAi999/Team-Task-Manager)**
+  > No description provided.
+  > 
+  > `Language: JavaScript`
+- **[SS-Ai](https://github.com/SatAi999/SS-Ai)**
+  > No description provided.
+  > 
+  > `Language: Python`
+- **[Python_Code](https://github.com/SatAi999/Python_Code)**
+  > No description provided.
+  > 
+  > `Language: Jupyter Notebook`
+- **[Placify_Project](https://github.com/SatAi999/Placify_Project)**
+  > No description provided.
+  > 
+  > `Language: Jupyter Notebook`
+- **[Human_Activity_Recognition](https://github.com/SatAi999/Human_Activity_Recognition)**
+  > No description provided.
+  > 
+  > `Language: Python`
+- **[Feynn_Labs_Project](https://github.com/SatAi999/Feynn_Labs_Project)**
+  > No description provided.
+  > 
+  > `Language: Jupyter Notebook`
+- **[CodeDais_Projects](https://github.com/SatAi999/CodeDais_Projects)**
+  > No description provided.
+  > 
+  > `Language: Jupyter Notebook`
+- **[CODSOFT](https://github.com/SatAi999/CODSOFT)**
+  > No description provided.
+  > 
+  > `Language: Jupyter Notebook`
+- **[Augmentix_Ai-Data-Augmentation-Ai-Tool](https://github.com/SatAi999/Augmentix_Ai-Data-Augmentation-Ai-Tool)**
+  > No description provided.
+  > 
+  > `Language: Python`
+- **[30daysChallenge](https://github.com/SatAi999/30daysChallenge)**
+  > No description provided.
+  > 
+  > `Language: Python`
 
 ---
 
